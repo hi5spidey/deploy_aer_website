@@ -1,0 +1,14 @@
+C:\Users\hi5sp\source\repos\deploy_aer_website\bin\Debug\net9.0-windows\deploy_aer_website.exe
+C:\Users\hi5sp\source\repos\deploy_aer_website\bin\Debug\net9.0-windows\deploy_aer_website.deps.json
+C:\Users\hi5sp\source\repos\deploy_aer_website\bin\Debug\net9.0-windows\deploy_aer_website.runtimeconfig.json
+C:\Users\hi5sp\source\repos\deploy_aer_website\bin\Debug\net9.0-windows\deploy_aer_website.dll
+C:\Users\hi5sp\source\repos\deploy_aer_website\bin\Debug\net9.0-windows\deploy_aer_website.pdb
+C:\Users\hi5sp\source\repos\deploy_aer_website\obj\Debug\net9.0-windows\deploy_aer_website.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hi5sp\source\repos\deploy_aer_website\obj\Debug\net9.0-windows\deploy_aer_website.AssemblyInfoInputs.cache
+C:\Users\hi5sp\source\repos\deploy_aer_website\obj\Debug\net9.0-windows\deploy_aer_website.AssemblyInfo.cs
+C:\Users\hi5sp\source\repos\deploy_aer_website\obj\Debug\net9.0-windows\deploy_aer_website.csproj.CoreCompileInputs.cache
+C:\Users\hi5sp\source\repos\deploy_aer_website\obj\Debug\net9.0-windows\deploy_aer_website.dll
+C:\Users\hi5sp\source\repos\deploy_aer_website\obj\Debug\net9.0-windows\refint\deploy_aer_website.dll
+C:\Users\hi5sp\source\repos\deploy_aer_website\obj\Debug\net9.0-windows\deploy_aer_website.pdb
+C:\Users\hi5sp\source\repos\deploy_aer_website\obj\Debug\net9.0-windows\deploy_aer_website.genruntimeconfig.cache
+C:\Users\hi5sp\source\repos\deploy_aer_website\obj\Debug\net9.0-windows\ref\deploy_aer_website.dll
