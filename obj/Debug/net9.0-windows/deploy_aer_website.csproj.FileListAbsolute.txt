@@ -12,3 +12,4 @@ C:\Users\hi5sp\source\repos\deploy_aer_website\obj\Debug\net9.0-windows\refint\d
 C:\Users\hi5sp\source\repos\deploy_aer_website\obj\Debug\net9.0-windows\deploy_aer_website.pdb
 C:\Users\hi5sp\source\repos\deploy_aer_website\obj\Debug\net9.0-windows\deploy_aer_website.genruntimeconfig.cache
 C:\Users\hi5sp\source\repos\deploy_aer_website\obj\Debug\net9.0-windows\ref\deploy_aer_website.dll
+C:\Users\hi5sp\source\repos\deploy_aer_website\obj\Debug\net9.0-windows\deploy_aer_website.sourcelink.json
