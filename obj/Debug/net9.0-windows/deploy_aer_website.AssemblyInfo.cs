@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("deploy_aer_website")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d29b408e4948423eb1a0fbe08a4c5084aede9aba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be33f7103d0c5d852658ad4392874464fb821ff8")]
 [assembly: System.Reflection.AssemblyProductAttribute("deploy_aer_website")]
 [assembly: System.Reflection.AssemblyTitleAttribute("deploy_aer_website")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
