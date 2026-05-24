@@ -9,7 +9,8 @@ namespace deploy_aer_website
         // Replace RunFunction() with your actual function that returns the folder path containing generated HTML files on success.
         private static string RunFunction()
         {
-            var candidate = Path.Combine(AppContext.BaseDirectory, "output");
+            //var candidate = Path.Combine(AppContext.BaseDirectory, "output");
+            var candidate = AppContext.BaseDirectory;
             return Directory.Exists(candidate) ? candidate : null;
         }
 
@@ -52,7 +53,11 @@ namespace deploy_aer_website
 
             var deployDir = Path.Combine(baseDir, "DEPLOY");
             Directory.CreateDirectory(deployDir);
-
+            foreach (var file in Directory.EnumerateFiles(unitTestDir, "*.html", SearchOption.TopDirectoryOnly))
+            {
+                var dest = Path.Combine(deployDir, Path.GetFileName(file));
+                File.Copy(file, dest, overwrite: true);
+            }
             return true;
         }
     }
